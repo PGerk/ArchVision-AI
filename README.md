@@ -18,9 +18,6 @@ In the TestClass copy the api key into the two methods: setApikeyForGPT4o and se
 
 **Important: Only add api keys to the code if no other person can access it!**
 
-## How to use this App
-Please view the demo video found in the {demo} folder to get an idea of how to use this app.
-
 
 ## License
 

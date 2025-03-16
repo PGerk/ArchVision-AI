@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomImageView">
+        <attr name="customAttribute" format="boolean" />
+        <!-- Weitere benutzerdefinierte Attribute hier hinzufügen -->
+    </declare-styleable>
+</resources>

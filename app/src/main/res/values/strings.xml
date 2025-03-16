@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">A-ABB-01 Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="recommendation_title">Send Request</string>
+    <string name="send_request_description">Adjust the prompt for the LLM:</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris volutpat, dolor id
+        interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus dui nec risus. Maecenas non sodales
+        nisi, vel dictum dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
+        himenaeos. Suspendisse blandit eleifend diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet,
+        imperdiet nisl a, ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus egestas, est a
+        condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed neque. Morbi tellus erat, dapibus ut
+        sem a, iaculis tincidunt dui. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur et eros
+    </string>
+    <string name="main_menu">Software Architectures</string>
+    <string name="main_menu_description">View existing software architectures in the gallery below or create new ones using the camera icon.</string>
+    <string name="tag_menu">Classification</string>
+    <string name="tag_menu_description">Select the type of UML diagram to convert into a digital software architecture.</string>
+    <string name="photo_gallery">Gallery</string>
+    <string name="photo_gallery_description">Capture or upload photographs of the architecture that needs to be converted into digital format.</string>
+    <string name="test">Test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send_request_button">Send</string>
+    <string name="send_request_button_back">Back</string>
+    <string name="result_title">Result</string>
+    <string name="recommendation_image">PlantUML Image</string>
+    <string name="recommendation_adjustment">Adjustments:</string>
+    <string name="textview_settings_llm">Select LLM:</string>
+    <string name="textview_settings_title">Settings</string>
+    <string name="textview_settings_subtitle">You can edit and customise your settings here!</string>
+    <string name="textview_settings_mail">Default email address:</string>
+    <string name="textview_settings_apikey">API-Key der LLM</string>
+    <string name="button_settings_save">Save Settings</string>
+    <string name="optimize">optimize</string>
+    <string name="highlight_of_changes">Show Highlights of Changes</string>
+    <string name="image_desc">image_description</string>
+</resources>

@@ -25,3 +25,11 @@ Please view the demo video found in the {demo} folder to get an idea of how to u
 ## License
 
 This app is published under the MIT License.
+
+## Former Contributors
+
+https://github.com/JonasHoer
+https://github.com/Nils-Althoff
+https://github.com/paul2711
+https://github.com/Blank2805
+https://github.com/JuliaF9
